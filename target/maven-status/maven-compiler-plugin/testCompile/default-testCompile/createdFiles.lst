@@ -1,0 +1,4 @@
+MyStepdefs.class
+stepdef\StepDefinition.class
+cucumberOptions\TestRunner.class
+Automation\AppTest.class
