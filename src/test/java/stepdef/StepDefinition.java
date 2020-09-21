@@ -17,6 +17,9 @@ public class StepDefinition {
         System.out.println("navigated to login url");
         System.out.println("navigated to login url2");
         System.out.println("navigated to login url3");
+
+        System.out.println("navigated to login url4");
+        System.out.println("navigated to login url5");
     }
 
     @When("^User login into application with \"([^\"]*)\" and \"([^\"]*)\"$")
