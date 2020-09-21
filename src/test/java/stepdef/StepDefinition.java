@@ -15,6 +15,8 @@ public class StepDefinition {
     @Given("^User is on NetBanking landing page$")
     public void user_is_on_netbanking_landing_page() throws Throwable {
         System.out.println("navigated to login url");
+        System.out.println("navigated to login url2");
+        System.out.println("navigated to login url3");
     }
 
     @When("^User login into application with \"([^\"]*)\" and \"([^\"]*)\"$")
